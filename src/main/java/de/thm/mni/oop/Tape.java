@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 import java.util.List;
 import java.util.ArrayList;

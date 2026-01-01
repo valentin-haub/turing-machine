@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 record Action(char write, Move move, String toState) {
     @Override

@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 record Step(int number, String tape, String state) {
     @Override

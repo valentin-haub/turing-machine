@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 class TMApp{
     public static void main(String[] args){

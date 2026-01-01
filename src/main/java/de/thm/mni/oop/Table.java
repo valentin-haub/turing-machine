@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 import java.util.Map;
 import java.util.HashMap;

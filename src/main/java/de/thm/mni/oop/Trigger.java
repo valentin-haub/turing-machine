@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 record Trigger(String fromState, char read) {
     @Override

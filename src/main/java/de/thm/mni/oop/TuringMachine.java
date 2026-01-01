@@ -1,4 +1,4 @@
-package de.thm;
+package de.thm.mni.oop;
 
 interface TuringMachine{
     void addTransition(String fromState, char read, char write, Move move, String toState);
