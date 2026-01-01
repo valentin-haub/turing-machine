@@ -72,9 +72,6 @@ public class TM implements TuringMachine {
     }
 
 
-    public static void main(String[] args) {}
-
-
     @Override
     public String toString(){
         String s = "";
